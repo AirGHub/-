@@ -1,4 +1,4 @@
-# 项目名称
+# 学生管理系统
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/你的用户名/项目名.svg?style=social&label=Star&maxAge=2592000)](https://github.com/AirGHub/-student-management-system/)
