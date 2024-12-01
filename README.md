@@ -48,3 +48,12 @@
    cd student-management-system
    pip install -r requirements.txt
    python server.py
+### 参与贡献
+我们欢迎任何形式的贡献！请先阅读我们的贡献指南了解更多信息。
+
+### 许可证
+本项目采用MIT许可证，请参阅LICENSE文件获取详情。
+
+### 联系方式
+Email: coolchongzi@gmail.com
+GitHub: https://github.com/AirGHub
